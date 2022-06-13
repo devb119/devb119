@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @devb119
-- 👀 I’m interested in Web Development, JavaScript, HTML, CSS,...
+- 👀 I’m interested in Web Development, Blockchain
 - 🌱 I’m currently learning Node.js, ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Facebook](https://www.facebook.com/reckless1109/)/[Twitter](https://twitter.com/anh_ndd)
+- 📫 How to reach me [Facebook](https://www.facebook.com/reckless1109/) / [Twitter](https://twitter.com/anh_ndd)
 
 <!---
 devb119/devb119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
