@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devb119 (Duc Anh)
 - 👀 I’m interested in Web Development, Blockchain (Web 3.0?!)
-- 🌱 I’m currently learning Node.js, ReactJS, Ruby💎 and Rails
+- 🌱 I’m currently learning Node.js, ReactJS, Ruby💎 and Rails, Solidity
 - 📫 How to reach me [Facebook](https://www.facebook.com/reckless1109/) / [Twitter](https://twitter.com/anh_ndd)
 
 
