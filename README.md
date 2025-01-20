@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devb119 (Duc Anh)
 - 👀 I’m interested in Web Development, AI, ML
-- 🌱 I’m currently learning Python, AI
-- 📫 How to reach me [Facebook](https://www.facebook.com/reckless1109/) / [Twitter](https://twitter.com/anh_ndd)
+- 📫 How to reach me [Facebook](https://www.facebook.com/anh.ndd1109/) / [Twitter](https://twitter.com/anh_ndd)
 
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devb119&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) --->
